@@ -1,5 +1,28 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+<p align="center">
+  <img src="https://github.com/IBsai2112/Portfolio/blob/2e13db95baeaeb5da206303db61d07d9d946b52e/assets/public/1.png" width="45%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/IBsai2112/Portfolio/blob/2e13db95baeaeb5da206303db61d07d9d946b52e/assets/public/2.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/IBsai2112/Portfolio/blob/2e13db95baeaeb5da206303db61d07d9d946b52e/assets/public/3.png" width="45%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/IBsai2112/Portfolio/blob/2e13db95baeaeb5da206303db61d07d9d946b52e/assets/public/4.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/IBsai2112/Portfolio/blob/2e13db95baeaeb5da206303db61d07d9d946b52e/assets/public/5.png" width="45%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/IBsai2112/Portfolio/blob/2e13db95baeaeb5da206303db61d07d9d946b52e/assets/public/6.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/IBsai2112/Portfolio/blob/2e13db95baeaeb5da206303db61d07d9d946b52e/assets/public/7.png" width="45%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/IBsai2112/Portfolio/blob/2e13db95baeaeb5da206303db61d07d9d946b52e/assets/public/8.png" width="45%" />
+</p>
 ## Getting Started
 
 First, run the development server:
