@@ -26,7 +26,7 @@ const Navbar = ({isDarkMode, setIsDarkMode}) => {
 
   return (
     <>
-    <div className='fixed top-0 right-0 w-11/12 -z-10 translate-y-[-80%] dark:hidden'>
+    <div className='fixed top-40 right-35 w-11/12 -z-10 translate-y-[-60%] opacity-40 dark:hidden rotate-[150deg] scale-150'>
        <Image src={assets.header_bg_color} alt='' className='w-full' />
     </div>
 
@@ -35,13 +35,40 @@ const Navbar = ({isDarkMode, setIsDarkMode}) => {
             <Image src={isDarkMode ? assets.logo_dark : assets.logo} alt='' className='w-28 alt="" cursor-pointer mr-14'/>
         </a>
 
-        <ul className={`hidden md:flex items-center gap-6 lg:gap-8 rounded-full px-12 py-3 ${isScroll ? "" : "bg-white shadow-sm bg-opacity-50 dark:border dark:border-white/50 dark:bg-transparent"} `}>
-            <li><a className='font-Ovo' href="#top">Home</a></li>
-            <li><a className='font-Ovo' href="#about">About me</a></li>
-            <li><a className='font-Ovo' href="#services">Services</a></li>
-            <li><a className='font-Ovo' href="#work">My Work</a></li>
-            <li><a className='font-Ovo' href="#contact">Contact me</a></li>
-        </ul>
+
+
+            <div className="hidden md:flex items-center justify-center gap-6">
+  <ul className="m-0 p-0">
+    <a className="font-Ovo inline-block transition-transform duration-200 hover:scale-110" href="#top">
+      Home
+    </a>
+  </ul>
+
+  <ul className="m-0 p-0">
+    <a className="font-Ovo inline-block transition-transform duration-200 hover:scale-110" href="#about">
+      About me
+    </a>
+  </ul>
+
+  <ul className="m-0 p-0">
+    <a className="font-Ovo inline-block transition-transform duration-200 hover:scale-110" href="#services">
+      Services
+    </a>
+  </ul>
+
+  <ul className="m-0 p-0">
+    <a className="font-Ovo inline-block transition-transform duration-200 hover:scale-110" href="#work">
+      My Work
+    </a>
+  </ul>
+
+  <ul className="m-0 p-0">
+    <a className="font-Ovo inline-block transition-transform duration-200 hover:scale-110" href="#contact">
+      Contact me
+    </a>
+  </ul>
+</div>
+
 
         <div className='flex items-center gap-4'>
 

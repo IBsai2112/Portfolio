@@ -9,6 +9,9 @@ import vscode from './vscode.png';
 import firebase from './firebase.png';
 import figma from './figma.png';
 import git from './git.png';
+import angular from './angular.png';
+import js from './js.png';
+import unity from './unity.png';
 import mongodb from './mongodb.png';
 import right_arrow_white from './right-arrow-white.png';
 import logo from './logo.png';
@@ -48,6 +51,9 @@ export const assets = {
     firebase,
     figma,
     git,
+    angular,
+    js,
+    unity,
     mongodb,
     right_arrow_white,
     logo,
@@ -79,22 +85,22 @@ export const assets = {
 export const workData = [
     {
         title: 'chat application',
-        description: 'A real-time chat application built with the MERN stack and styled using Tailwind CSS. It supports user authentication, group chats, and live messaging through Socket.IO. The app is fully responsive and uses Redux for state management, ensuring a smooth user experience.',
+        description: 'Real-Time MERN App',
         bgImage: '/work-1.png',
     },
     {
         title: 'Restaurant Site',
-        description: 'WebApp',
+        description: 'Secure Food Ordering System',
         bgImage: '/work-2.png',
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
+        title: 'Scroll-Animation',
+        description: 'GSAP Animation',
         bgImage: '/work-3.png',
     },
     {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
+        title: 'MovieSearch',
+        description: 'Movie Discovery App',
         bgImage: '/work-4.png',
     },
 ]
@@ -107,11 +113,13 @@ export const serviceData = [
 ]
 
 export const infoList = [
+    
     { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'JavaScript, React Js, Angular Js, Express Js, node Js, Next Js' },
-    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'B.Tech in Information Technology' },
-    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 4 projects' }
+    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: '🎓 B.Tech in Information Technology, MIT-ADT University, Pune' },
+    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Chat App, Animation Websites, Restaurant App & more' }
 ];
 
+
 export const toolsData = [
-    assets.vscode, assets.firebase, assets.mongodb, assets.figma, assets.git
+    assets.js, assets.firebase, assets.figma, assets.mongodb,assets.angular, assets.unity, assets.git, assets.vscode,
 ];
