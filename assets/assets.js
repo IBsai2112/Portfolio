@@ -87,29 +87,58 @@ export const workData = [
         title: 'chat application',
         description: 'Real-Time MERN App',
         bgImage: '/work-1.png',
+        link: 'https://github.com/IBsai2112/Privacy-Talk',
     },
     {
         title: 'Restaurant Site',
         description: 'Secure Food Ordering System',
         bgImage: '/work-2.png',
+        link: 'https://github.com/IBsai2112/food-ordering-system',
     },
     {
         title: 'Scroll-Animation',
         description: 'GSAP Animation',
         bgImage: '/work-3.png',
+        link: 'https://scroll-animation-two-bice.vercel.app/',
     },
     {
         title: 'MovieSearch',
         description: 'Movie Discovery App',
         bgImage: '/work-4.png',
+        link: 'https://movie-search-six-iota.vercel.app',
     },
+    // {
+    //     title: 'MovieSearch',
+    //     description: 'Movie Discovery App',
+    //     bgImage: '/work-4.png', 
+    // },
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
-    { icon: assets.mobile_icon, title: 'Mobile app', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
-    { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
-    { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication...', link: '' },
+    {
+        icon: assets.web_icon,
+        title: 'DevOps on AWS and Project Management',
+        description: 'Completed an AWS certification focused on DevOps practices and project management workflows using Amazon Web Services.',
+        link: 'https://www.linkedin.com/in/sainjal/' // optional: can link directly to the certification post if you have one
+    },
+    {
+        icon: assets.mobile_icon,
+        title: 'Full-Stack Web Development (Placeholder)',
+        description: 'Certification in full-stack web development covering modern frontend and backend technologies.',
+        link: ''
+    },
+    {
+        icon: assets.ui_icon,
+        title: 'React & Modern JavaScript (Placeholder)',
+        description: 'Professional certification demonstrating advanced skills in React and modern JavaScript frameworks.',
+        link: ''
+    },
+    {
+        icon: assets.graphics_icon,
+        title: 'Cybersecurity Fundamentals (Placeholder)',
+        description: 'Certification in foundational cybersecurity principles and best practices.',
+        link: ''
+    }
 ]
 
 export const infoList = [
