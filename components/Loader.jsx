@@ -102,10 +102,15 @@ const Loader = () => {
   src="https://lottie.host/575ed603-9bcc-49e4-b4c9-1bf425f09940/MwIj8U3OXA.lottie"
   loop
   autoplay
-  style={{ width: "120px", height: "120px" }}
+  style={{ width: "180px", height: "180px" }}
 />
-      <Text variants={textVariants} initial="hidden" animate="visible">
-        Sai Studio
+        <Text
+        style={{ fontSize: "3vh" }}
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.5, duration: 0.8 }}
+      >
+        Sainjal Kalnekar
       </Text>
     </Container>
   );
