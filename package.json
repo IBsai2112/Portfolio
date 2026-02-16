@@ -3,16 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-  "dev": "next dev --turbopack",
-  "build": "next build",
-  "start": "next start",
-  "lint": "cross-env ESLINT_DISABLE_PATCHING=1 eslint ."
-},
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "cross-env ESLINT_DISABLE_PATCHING=1 eslint ."
+  },
   "dependencies": {
+    "@lottiefiles/dotlottie-react": "^0.17.15",
+    "framer-motion": "^12.34.0",
     "motion": "^11.15.0",
     "next": "15.1.11",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "styled-components": "^6.3.9"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
