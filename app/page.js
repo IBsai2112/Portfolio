@@ -7,11 +7,24 @@ import Header from "../components/Header";
 import Navbar from "../components/Navbar";
 import Services from "../components/Services";
 import Work from "../components/Work";
+import Loader from "../components/Loader";
 
 export default function Home() {
 
  const [isDarkMode, setIsDarkMode] = useState(false);
+ const [loading, setLoading] = useState(true);
 
+
+  // loader timer
+ useEffect(() => {
+   const timer = setTimeout(() => {
+     setLoading(false);
+   }, 2500);
+
+   return () => clearTimeout(timer);
+ }, []);
+
+ 
  useEffect(()=>{
   if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
     setIsDarkMode(true)
@@ -29,6 +42,14 @@ export default function Home() {
       localStorage.theme = '';
     }
  },[isDarkMode])
+
+
+
+  // ✅ SHOW LOADER FIRST
+ if (loading) {
+   return <Loader />;
+ }
+
 
   return (
     <>

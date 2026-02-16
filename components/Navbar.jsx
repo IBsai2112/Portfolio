@@ -52,7 +52,7 @@ const Navbar = ({isDarkMode, setIsDarkMode}) => {
 
   <ul className="m-0 p-0">
     <a className="font-Ovo inline-block transition-transform duration-200 hover:scale-110" href="#services">
-      Services
+      Certifications
     </a>
   </ul>
 
