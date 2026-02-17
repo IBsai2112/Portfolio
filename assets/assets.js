@@ -13,7 +13,13 @@ import angular from './angular.png';
 import js from './js.png';
 import unity from './unity.png';
 import mongodb from './mongodb.png';
+import expressJs from './expressJsLogo.png';
+import framerMotion from './framerMotionLogo.png';
+import nextJs from './nextJsLogo.png';
+import gsap from './gsap.png';
+
 import right_arrow_white from './right-arrow-white.png';
+import git_logo from './gitLogo.png';
 import logo from './logo.png';
 import logo_dark from './logo_dark.png';
 import mail_icon from './mail_icon.png';
@@ -53,9 +59,14 @@ export const assets = {
     git,
     angular,
     js,
+    expressJs,
+    framerMotion,
+    gsap,
+    nextJs,
     unity,
     mongodb,
     right_arrow_white,
+    git_logo,
     logo,
     logo_dark,
     mail_icon,
