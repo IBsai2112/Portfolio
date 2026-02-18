@@ -16,7 +16,13 @@ import mongodb from './mongodb.png';
 import expressJs from './expressJsLogo.png';
 import framerMotion from './framerMotionLogo.png';
 import nextJs from './nextJsLogo.png';
-import gsap from './gsap.png';
+import gsap from './gsapLogo.png';
+import sql from './mySqlLogo.png';
+import aws from './awsLogo.png';
+import npm from './npmLogo.png';
+import tailwind from './tailwindCSSLogo.png';
+import java from './javaLogo.png';
+import python from './pythonLogo.png';
 
 import right_arrow_white from './right-arrow-white.png';
 import git_logo from './gitLogo.png';
@@ -57,8 +63,14 @@ export const assets = {
     firebase,
     figma,
     git,
+    sql,
     angular,
     js,
+    python,
+    java,
+    tailwind,
+    npm,
+    aws,
     expressJs,
     framerMotion,
     gsap,
@@ -105,6 +117,12 @@ export const workData = [
         description: 'Secure Food Ordering System',
         bgImage: '/work-2.png',
         link: 'https://github.com/IBsai2112/food-ordering-system',
+    },
+    {
+        title: 'MOVAA',
+        description: 'Animatated Clothing-Brand',
+        bgImage: '/work-3.png',
+        link: 'https://github.com/IBsai2112/MOVAA-Clothing-Brand',
     },
     {
         title: 'Scroll-Animation',
@@ -161,5 +179,5 @@ export const infoList = [
 
 
 export const toolsData = [
-    assets.js, assets.firebase, assets.figma, assets.mongodb,assets.angular, assets.unity, assets.git, assets.vscode,
+    assets.js, assets.java, assets.python, assets.firebase, assets.figma, assets.expressJs, assets.angular, assets.nextJs, assets.npm, assets.tailwind, assets.framerMotion, assets.gsap, assets.mongodb, assets.sql, assets.aws, assets.unity, assets.git,
 ];
