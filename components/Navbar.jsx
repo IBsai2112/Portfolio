@@ -63,7 +63,7 @@ const Navbar = ({isDarkMode, setIsDarkMode}) => {
   </ul>
 
   <ul className="m-0 p-0">
-    <a className="font-Ovo inline-block transition-transform duration-200 hover:scale-110" href="#contact">
+    <a className="font-Ovo inline-block transition-transform duration-200 hover:bg-[#fde7df] hover:scale-110" href="#contact">
       Contact me
     </a>
   </ul>
@@ -94,7 +94,7 @@ const Navbar = ({isDarkMode, setIsDarkMode}) => {
 
             <li><a className='font-Ovo' onClick={closeMenu} href="#top">Home</a></li>
             <li><a className='font-Ovo' onClick={closeMenu} href="#about">About me</a></li>
-            <li><a className='font-Ovo' onClick={closeMenu} href="#services">Services</a></li>
+            <li><a className='font-Ovo' onClick={closeMenu} href="#services">Certifications</a></li>
             <li><a className='font-Ovo' onClick={closeMenu} href="#work">My Work</a></li>
             <li><a className='font-Ovo' onClick={closeMenu} href="#contact">Contact me</a></li>
         </ul>

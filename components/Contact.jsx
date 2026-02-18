@@ -45,7 +45,7 @@ const Contact = () => {
           initial={{ x: -50, opacity: 0 }}
           whileInView={{ x: 0, opacity: 1 }}
           transition={{ delay: 0.2, duration: 0.6 }}
-          className='bg-gradient-to-br from-purple-700 via-purple-600 to-indigo-700 text-white p-10 flex flex-col justify-center'
+          className='bg-gradient-to-br from-[#fde7df] to-[#e2b1a0] text-white p-10 flex flex-col justify-center'
         >
           <h2 className='text-3xl font-semibold mb-4'>
             Reach Out
@@ -102,7 +102,8 @@ const Contact = () => {
               whileHover={{ scale: 1.03 }}
               transition={{ duration: 0.3 }}
               type='submit'
-              className='mt-2 py-3 bg-gradient-to-r from-purple-600 to-indigo-600 text-white rounded-md text-sm font-medium hover:opacity-90 flex items-center justify-center gap-2'
+              className='mt-2 py-3 bg-gradient-to-r from-[#fde7df] to-[#e2b1a0] text-black rounded-md text-sm font-medium hover:opacity-90 flex items-center justify-center gap-2'
+
             >
               Send Message
               <Image src={assets.right_arrow_white} alt='' className='w-4'/>

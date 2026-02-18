@@ -121,8 +121,14 @@ export const workData = [
     {
         title: 'MOVAA',
         description: 'Animatated Clothing-Brand',
-        bgImage: '/work-3.png',
+        bgImage: '/work-5.png',
         link: 'https://github.com/IBsai2112/MOVAA-Clothing-Brand',
+    },
+    {
+        title: 'Neymar-Edit',
+        description: 'Animatated Neymar biopic',
+        bgImage: '/work-6.jpeg',
+        link: 'https://github.com/IBsai2112/Neymar-edit',
     },
     {
         title: 'Scroll-Animation',
@@ -148,25 +154,25 @@ export const serviceData = [
         icon: assets.web_icon,
         title: 'DevOps on AWS and Project Management',
         description: 'Completed an AWS certification focused on DevOps practices and project management workflows using Amazon Web Services.',
-        link: 'https://www.linkedin.com/in/sainjal/' // optional: can link directly to the certification post if you have one
+        link: 'https://drive.google.com/file/d/1oU2BlmoWkU9c8oJXFV4c3BUO2uCo1VZ1/view?usp=sharing' // optional: can link directly to the certification post if you have one
     },
     {
         icon: assets.mobile_icon,
         title: 'Full-Stack Web Development (Placeholder)',
         description: 'Certification in full-stack web development covering modern frontend and backend technologies.',
-        link: ''
+        link: 'https://drive.google.com/file/d/1HCiRMORVFzaHZobbh1W5Tf-bKTLlU2it/view?usp=sharing'
     },
     {
         icon: assets.ui_icon,
         title: 'React & Modern JavaScript (Placeholder)',
         description: 'Professional certification demonstrating advanced skills in React and modern JavaScript frameworks.',
-        link: ''
+        link: 'https://drive.google.com/file/d/1A9g7WYgLyIBPb9f01BUFoPvX3DEDnWUd/view?usp=sharing'
     },
     {
         icon: assets.graphics_icon,
-        title: 'Cybersecurity Fundamentals (Placeholder)',
-        description: 'Certification in foundational cybersecurity principles and best practices.',
-        link: ''
+        title: 'Microsoft Azure Cloud Services',
+        description: 'An online non-credit course authorized by Microsoft and offered through Coursera',
+        link: 'https://drive.google.com/file/d/1OzFSwHr5EwaOek3QtfliJyliqcBepEZR/view?usp=sharing'
     }
 ]
 
