@@ -63,7 +63,7 @@ const Navbar = ({isDarkMode, setIsDarkMode}) => {
   </ul>
 
   <ul className="m-0 p-0">
-    <a className="font-Ovo inline-block transition-transform duration-200 hover:bg-[#fde7df] hover:scale-110" href="#contact">
+    <a className="font-Ovo inline-block transition-transform duration-200 hover:scale-110" href="#contact">
       Contact me
     </a>
   </ul>
