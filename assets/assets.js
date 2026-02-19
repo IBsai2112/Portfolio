@@ -178,7 +178,7 @@ export const serviceData = [
 
 export const infoList = [
     
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'JavaScript, React Js, Angular Js, Express Js, node Js, Next Js' },
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Key expertise', description: 'JavaScript, React Js, Angular Js, Express Js, node Js, Next Js' },
     { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: '🎓 B.Tech in Information Technology, MIT-ADT University, Pune' },
     { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Chat App, Animation Websites, Restaurant App & more' }
 ];
