@@ -153,25 +153,25 @@ export const serviceData = [
     {
         icon: assets.web_icon,
         title: 'DevOps on AWS and Project Management',
-        description: 'Completed an AWS certification focused on DevOps practices and project management workflows using Amazon Web Services.',
+        description: 'AWS DevOps certification demonstrating skills in cloud deployment, automation, and project management using Amazon Web Services.',
         link: 'https://drive.google.com/file/d/1oU2BlmoWkU9c8oJXFV4c3BUO2uCo1VZ1/view?usp=sharing' // optional: can link directly to the certification post if you have one
     },
     {
         icon: assets.mobile_icon,
         title: 'Full-Stack Web Development (Placeholder)',
-        description: 'Certification in full-stack web development covering modern frontend and backend technologies.',
+        description: 'MERN Stack certification showcasing full-stack development skills using React, Node.js, Express.js, MongoDB, and Redux.',
         link: 'https://drive.google.com/file/d/1HCiRMORVFzaHZobbh1W5Tf-bKTLlU2it/view?usp=sharing'
     },
     {
         icon: assets.ui_icon,
         title: 'React & Modern JavaScript (Placeholder)',
-        description: 'Professional certification demonstrating advanced skills in React and modern JavaScript frameworks.',
+        description: 'Meta-authorized React Native certification demonstrating expertise in building cross-platform mobile applications using React Native and modern JavaScript.',
         link: 'https://drive.google.com/file/d/1A9g7WYgLyIBPb9f01BUFoPvX3DEDnWUd/view?usp=sharing'
     },
     {
         icon: assets.graphics_icon,
         title: 'Microsoft Azure Cloud Services',
-        description: 'An online non-credit course authorized by Microsoft and offered through Coursera',
+        description: 'Microsoft-authorized Azure Cloud Services certification demonstrating foundational knowledge of cloud computing, Azure infrastructure, and cloud application deployment.',
         link: 'https://drive.google.com/file/d/1OzFSwHr5EwaOek3QtfliJyliqcBepEZR/view?usp=sharing'
     }
 ]

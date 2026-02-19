@@ -30,7 +30,7 @@ const Services = () => {
       whileInView={{ opacity: 1 }}
       transition={{ delay: 0.7, duration: 0.5 }}
       className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo'>
-        A collection of certifications and professional courses I’ve completed to strengthen my skills in software development, cybersecurity, and modern web technologies.
+        A curated collection of certifications showcasing my expertise and continuous growth in software development, cybersecurity, and modern web technologies.
       </motion.p>
 
         <motion.div
