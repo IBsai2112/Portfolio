@@ -22,7 +22,7 @@ overflow: hidden;
   justify-content: center;
   align-items: center;
 
-  background-color: #242424;
+  background-color: #fde7df;
 
   width: 100%;
 

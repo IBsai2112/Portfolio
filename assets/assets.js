@@ -13,7 +13,19 @@ import angular from './angular.png';
 import js from './js.png';
 import unity from './unity.png';
 import mongodb from './mongodb.png';
+import expressJs from './expressJsLogo.png';
+import framerMotion from './framerMotionLogo.png';
+import nextJs from './nextJsLogo.png';
+import gsap from './gsapLogo.png';
+import sql from './mySqlLogo.png';
+import aws from './awsLogo.png';
+import npm from './npmLogo.png';
+import tailwind from './tailwindCSSLogo.png';
+import java from './javaLogo.png';
+import python from './pythonLogo.png';
+
 import right_arrow_white from './right-arrow-white.png';
+import git_logo from './gitLogo.png';
 import logo from './logo.png';
 import logo_dark from './logo_dark.png';
 import mail_icon from './mail_icon.png';
@@ -51,11 +63,22 @@ export const assets = {
     firebase,
     figma,
     git,
+    sql,
     angular,
     js,
+    python,
+    java,
+    tailwind,
+    npm,
+    aws,
+    expressJs,
+    framerMotion,
+    gsap,
+    nextJs,
     unity,
     mongodb,
     right_arrow_white,
+    git_logo,
     logo,
     logo_dark,
     mail_icon,
@@ -96,6 +119,18 @@ export const workData = [
         link: 'https://github.com/IBsai2112/food-ordering-system',
     },
     {
+        title: 'MOVAA',
+        description: 'Animatated Clothing-Brand',
+        bgImage: '/work-5.png',
+        link: 'https://github.com/IBsai2112/MOVAA-Clothing-Brand',
+    },
+    {
+        title: 'Neymar-Edit',
+        description: 'Animatated Neymar biopic',
+        bgImage: '/work-6.jpeg',
+        link: 'https://github.com/IBsai2112/Neymar-edit',
+    },
+    {
         title: 'Scroll-Animation',
         description: 'GSAP Animation',
         bgImage: '/work-3.png',
@@ -118,37 +153,37 @@ export const serviceData = [
     {
         icon: assets.web_icon,
         title: 'DevOps on AWS and Project Management',
-        description: 'Completed an AWS certification focused on DevOps practices and project management workflows using Amazon Web Services.',
-        link: 'https://www.linkedin.com/in/sainjal/' // optional: can link directly to the certification post if you have one
+        description: 'AWS DevOps certification demonstrating skills in cloud deployment, automation, and project management using Amazon Web Services.',
+        link: 'https://drive.google.com/file/d/1oU2BlmoWkU9c8oJXFV4c3BUO2uCo1VZ1/view?usp=sharing' // optional: can link directly to the certification post if you have one
     },
     {
         icon: assets.mobile_icon,
         title: 'Full-Stack Web Development (Placeholder)',
-        description: 'Certification in full-stack web development covering modern frontend and backend technologies.',
-        link: ''
+        description: 'MERN Stack certification showcasing full-stack development skills using React, Node.js, Express.js, MongoDB, and Redux.',
+        link: 'https://drive.google.com/file/d/1HCiRMORVFzaHZobbh1W5Tf-bKTLlU2it/view?usp=sharing'
     },
     {
         icon: assets.ui_icon,
         title: 'React & Modern JavaScript (Placeholder)',
-        description: 'Professional certification demonstrating advanced skills in React and modern JavaScript frameworks.',
-        link: ''
+        description: 'Meta-authorized React Native certification demonstrating expertise in building cross-platform mobile applications using React Native and modern JavaScript.',
+        link: 'https://drive.google.com/file/d/1A9g7WYgLyIBPb9f01BUFoPvX3DEDnWUd/view?usp=sharing'
     },
     {
         icon: assets.graphics_icon,
-        title: 'Cybersecurity Fundamentals (Placeholder)',
-        description: 'Certification in foundational cybersecurity principles and best practices.',
-        link: ''
+        title: 'Microsoft Azure Cloud Services',
+        description: 'Microsoft-authorized Azure Cloud Services certification demonstrating foundational knowledge of cloud computing, Azure infrastructure, and cloud application deployment.',
+        link: 'https://drive.google.com/file/d/1OzFSwHr5EwaOek3QtfliJyliqcBepEZR/view?usp=sharing'
     }
 ]
 
 export const infoList = [
     
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'JavaScript, React Js, Angular Js, Express Js, node Js, Next Js' },
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Key expertise', description: 'JavaScript, React Js, Angular Js, Express Js, node Js, Next Js' },
     { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: '🎓 B.Tech in Information Technology, MIT-ADT University, Pune' },
     { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Chat App, Animation Websites, Restaurant App & more' }
 ];
 
 
 export const toolsData = [
-    assets.js, assets.firebase, assets.figma, assets.mongodb,assets.angular, assets.unity, assets.git, assets.vscode,
+    assets.js, assets.java, assets.python, assets.firebase, assets.figma, assets.expressJs, assets.angular, assets.nextJs, assets.npm, assets.tailwind, assets.framerMotion, assets.gsap, assets.mongodb, assets.sql, assets.aws, assets.unity, assets.git,
 ];
