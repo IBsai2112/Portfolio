@@ -42,7 +42,7 @@ const About = ({isDarkMode}) => {
             transition={{duration: 0.6, delay: 0.8}}
             className='flex-1'>
                 <p className='mb-10 max-w-3xl font-Ovo'
-                >I am an experienced Frontend Developer with over a decade of professional expertise in the field. Throughout my career, I have had the privilege of collaborating with prestigious organizations, contributing to their success and growth.</p>
+                >I am a full-stack developer experienced in building modern, scalable web applications with clean architecture and strong performance. My work includes real-world projects, interactive interfaces, and full-stack systems focused on reliability and user experience.</p>
 
                 <motion.ul
                 initial={{opacity: 0}}

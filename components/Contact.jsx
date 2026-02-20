@@ -62,7 +62,7 @@ const Contact = () => {
           initial={{ x: 50, opacity: 0 }}
           whileInView={{ x: 0, opacity: 1 }}
           transition={{ delay: 0.4, duration: 0.6 }}
-          className='bg-white p-10 dark:bg-darkHover'
+          className='bg-white p-10 dark:bg-[#110220]'
         >
           <h3 className='text-2xl font-semibold mb-2'>Contact us</h3>
           <p className='text-sm text-gray-500 mb-6'>
