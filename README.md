@@ -5,15 +5,15 @@ It is bootstrapped using create-next-app and leverages the latest Next.js featur
 ## 📸 Project Screenshots
 
 <p align="center">
-  <img src="https://github.com/IBsai2112/Portfolio/blob/5f45b511f963df2164b91b081b30937ccfd54004/assets/public/1.png" width="30%" />
-  <img src="https://github.com/IBsai2112/Portfolio/blob/5f45b511f963df2164b91b081b30937ccfd54004/assets/public/2.png" width="30%" />
-  <img src="https://github.com/IBsai2112/Portfolio/blob/5f45b511f963df2164b91b081b30937ccfd54004/assets/public/3.png" width="30%" />
+  <img src="https://github.com/IBsai2112/Portfolio/blob/119d2aa6a1a1157ffcfb09b7f4a53dc869d92d59/assets/public/1.png" width="30%" />
+  <img src="https://github.com/IBsai2112/Portfolio/blob/119d2aa6a1a1157ffcfb09b7f4a53dc869d92d59/assets/public/2.png" width="30%" />
+  <img src="https://github.com/IBsai2112/Portfolio/blob/119d2aa6a1a1157ffcfb09b7f4a53dc869d92d59/assets/public/3.png" width="30%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/IBsai2112/Portfolio/blob/5f45b511f963df2164b91b081b30937ccfd54004/assets/public/4.png" width="30%" />
-  <img src="https://github.com/IBsai2112/Portfolio/blob/5f45b511f963df2164b91b081b30937ccfd54004/assets/public/5.png" width="30%" />
-  <img src="https://github.com/IBsai2112/Portfolio/blob/5f45b511f963df2164b91b081b30937ccfd54004/assets/public/6.png" width="30%" />
+  <img src="https://github.com/IBsai2112/Portfolio/blob/119d2aa6a1a1157ffcfb09b7f4a53dc869d92d59/assets/public/4.png" width="30%" />
+  <img src="https://github.com/IBsai2112/Portfolio/blob/119d2aa6a1a1157ffcfb09b7f4a53dc869d92d59/assets/public/5.png" width="30%" />
+  <img src="https://github.com/IBsai2112/Portfolio/blob/119d2aa6a1a1157ffcfb09b7f4a53dc869d92d59/assets/public/6.png" width="30%" />
 </p>
 
 
