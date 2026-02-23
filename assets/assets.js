@@ -136,6 +136,12 @@ export const workData = [
         bgImage: '/work-3.png',
         link: 'https://scroll-animation-two-bice.vercel.app/',
     },
+     {
+        title: 'Parallax-Scrolling',
+        description: 'Parallax-Effect using GSAP',
+        bgImage: '/work-7.png',
+        link: 'https://parallax-scrolling-ten.vercel.app/',
+    },
     {
         title: 'MovieSearch',
         description: 'Movie Discovery App',
