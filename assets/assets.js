@@ -119,16 +119,22 @@ export const workData = [
         link: 'https://github.com/IBsai2112/food-ordering-system',
     },
     {
-        title: 'MOVAA',
-        description: 'Animatated Clothing-Brand',
-        bgImage: '/work-5.png',
-        link: 'https://github.com/IBsai2112/MOVAA-Clothing-Brand',
-    },
-    {
         title: 'Neymar-Edit',
         description: 'Animatated Neymar biopic',
         bgImage: '/work-6.jpeg',
         link: 'https://github.com/IBsai2112/Neymar-edit',
+    },
+     {
+        title: 'Elvora',
+        description: 'Elvora Ice-Cream Brand',
+        bgImage: '/',
+        link: 'https://github.com/IBsai2112/Elvora-Icecream.git',
+    },
+     {
+        title: 'MOVAA',
+        description: 'Animatated Clothing-Brand',
+        bgImage: '/work-5.png',
+        link: 'https://github.com/IBsai2112/MOVAA-Clothing-Brand',
     },
     {
         title: 'Scroll-Animation',
@@ -139,7 +145,7 @@ export const workData = [
      {
         title: 'Parallax-Scrolling',
         description: 'Parallax-Effect using GSAP',
-        bgImage: '/work-7.png',
+        bgImage: '/',
         link: 'https://parallax-scrolling-ten.vercel.app/',
     },
     {
