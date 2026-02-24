@@ -127,7 +127,7 @@ export const workData = [
      {
         title: 'Elvora',
         description: 'Elvora Ice-Cream Brand',
-        bgImage: '/',
+        bgImage: '/work-7.png',
         link: 'https://github.com/IBsai2112/Elvora-Icecream.git',
     },
      {
