@@ -119,22 +119,34 @@ export const workData = [
         link: 'https://github.com/IBsai2112/food-ordering-system',
     },
     {
+        title: 'Neymar-Edit',
+        description: 'Animatated Neymar biopic',
+        bgImage: '/work-6.jpeg',
+        link: 'https://github.com/IBsai2112/Neymar-edit',
+    },
+     {
+        title: 'Elvora',
+        description: 'Elvora Ice-Cream Brand',
+        bgImage: '/work-7.png',
+        link: 'https://github.com/IBsai2112/Elvora-Icecream.git',
+    },
+     {
         title: 'MOVAA',
         description: 'Animatated Clothing-Brand',
         bgImage: '/work-5.png',
         link: 'https://github.com/IBsai2112/MOVAA-Clothing-Brand',
     },
     {
-        title: 'Neymar-Edit',
-        description: 'Animatated Neymar biopic',
-        bgImage: '/work-6.jpeg',
-        link: 'https://github.com/IBsai2112/Neymar-edit',
-    },
-    {
         title: 'Scroll-Animation',
         description: 'GSAP Animation',
         bgImage: '/work-3.png',
         link: 'https://scroll-animation-two-bice.vercel.app/',
+    },
+     {
+        title: 'Parallax-Scrolling',
+        description: 'Parallax-Effect using GSAP',
+        bgImage: '/work-8.png',
+        link: 'https://parallax-scrolling-ten.vercel.app/',
     },
     {
         title: 'MovieSearch',
