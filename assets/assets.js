@@ -145,7 +145,7 @@ export const workData = [
      {
         title: 'Parallax-Scrolling',
         description: 'Parallax-Effect using GSAP',
-        bgImage: '/',
+        bgImage: '/work-8.png',
         link: 'https://parallax-scrolling-ten.vercel.app/',
     },
     {
