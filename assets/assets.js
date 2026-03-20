@@ -118,12 +118,7 @@ export const workData = [
         bgImage: '/work-2.png',
         link: 'https://github.com/IBsai2112/food-ordering-system',
     },
-    {
-        title: 'Neymar-Edit',
-        description: 'Animatated Neymar biopic',
-        bgImage: '/work-6.jpeg',
-        link: 'https://github.com/IBsai2112/Neymar-edit',
-    },
+
      {
         title: 'Elvora',
         description: 'Elvora Ice-Cream Brand',
@@ -135,6 +130,12 @@ export const workData = [
         description: 'Animatated Clothing-Brand',
         bgImage: '/work-5.png',
         link: 'https://github.com/IBsai2112/MOVAA-Clothing-Brand',
+    },
+        {
+        title: 'Neymar-Edit',
+        description: 'Animatated Neymar biopic',
+        bgImage: '/work-6.jpeg',
+        link: 'https://github.com/IBsai2112/Neymar-edit',
     },
     {
         title: 'Scroll-Animation',
